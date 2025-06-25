@@ -26,9 +26,3 @@ A sleek, responsive **Kanban-style task management app** built with **vanilla Ja
 
 > Drag, edit, and manage tasks with fluid UX in a minimal interface.
 
-## 🚀 Getting Started
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/kanban-task-board.git
-   cd kanban-task-board
